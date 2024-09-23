@@ -1,0 +1,3 @@
+C:/Users/Kaio/Desktop/Unifagoc/Cpp/exercicioDePilha/cmake-build-debug/CMakeFiles/exercicio_de_pilha.dir
+C:/Users/Kaio/Desktop/Unifagoc/Cpp/exercicioDePilha/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kaio/Desktop/Unifagoc/Cpp/exercicioDePilha/cmake-build-debug/CMakeFiles/rebuild_cache.dir
